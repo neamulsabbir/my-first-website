@@ -1,0 +1,121 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 60px;
+    color: white;
+
+}
+.line-height{
+    line-height: 30px;
+}
+
+.font-color{
+    background: linear-gradient(#df0000, #690000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+p{
+    font-weight: 300;
+    color:white;
+    font-size: 13px;
+}
+h3{
+    font-weight: 400;
+    color:white;
+}
+.size{
+    width: 40%;
+    float: left;
+    margin: 3%;
+    padding-left: 2%;
+}
+.size img{
+    width: 100%;
+    
+    
+}
+
+.in-banner{
+    background-image: url(Capture.JPG);
+    background-repeat: no-repeat;
+    height: 500px;
+    max-width: 100%;
+}
+
+.button{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(#df0000, #690000);
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.second-p{
+    font-weight: 200px;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+
+.under{
+    margin: 140px 0px 50px 0px;
+}
+#unique{
+    color: white;
+    padding: 10px 10px;
+    font-size: 10px;
+}
+
+.Center{
+    margin: 800px 5% 50px 5%;
+    color: #000000;
+    text-align: center;
+    /* background-image: linear-gradient(#313131, #313131); */
+    height: 50p;
+
+}
+
+.Services-description{
+    color: black;
+    text-align: justify;
+    color: white;
+    font-size: 10px;
+    font-weight: 250;
+}
+.last{
+    width: 17%;
+    float: left;
+    margin: 0% 0% 10% 5%;
+    padding: 1%;
+    color: white;
+    font-size: 12px;
+}
+.shadow{
+    box-shadow: 6px 6px 20px rgb(116, 116, 116) ;
+    background-image: linear-gradient(#ad0000, #530000);
+
+}
+.po{
+    text-align: center;
+}
+
+.info{
+    width: 25%;
+    float: left;
+    text-align: center;
+    background-image: linear-gradient(#313131, #313131);
+    height: 300px;
+    border-width: 100%;
+    color: white;
+    
+}
+
+.bold{
+    font-size: 20px;
+    color: white;
+}
+h5{
+    font-weight: 200;
+}
